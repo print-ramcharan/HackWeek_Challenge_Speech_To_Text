@@ -66,12 +66,4 @@ You should see:
 
 ---
 
-## 📸 Screenshot
 
-![screenshot](./screenshot.png)
-
----
-
-## 📄 License
-
-MIT
